@@ -29,6 +29,8 @@ gem "jbuilder"
 
 gem 'mongoid'
 
+gem 'slack-ruby-bot-server'
+gem 'mongoid-scroll'
 
 # Use Kredis to get higher-level data types in Redis [https://github.com/rails/kredis]
 # gem "kredis"
